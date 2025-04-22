@@ -3,6 +3,16 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.5.0",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "stackblitz-starters-sedexink",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
